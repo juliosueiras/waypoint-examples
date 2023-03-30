@@ -5,6 +5,7 @@ You can use these example applications to quickly try out and learn how to use
 
 ## Getting Started
 
+
 If you're new to Waypoint, start by reviewing the [Getting
 Started](https://waypointproject.io/docs/getting-started) page, which includes
 guided tutorials and quickstart installation and deployment instructions.
